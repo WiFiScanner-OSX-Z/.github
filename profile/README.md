@@ -41,12 +41,6 @@ The signal strength monitoring in <a href="#">WiFi Scanner</a> provides the meas
 
 ---
 
-<p align="center">
-  <img src="https://static.macupdate.com/screenshots/322077/m/wifi-scanner-screenshot.png?v=1641230280" alt="WiFiScanner screenshot"/>
-</p>
-
----
-
 ## Additional Information
 
 WiFi Scanner for Mac is available on the Mac App Store as a one-time purchase, compatible with macOS 10.13 High Sierra and later. The perpetual license includes all network discovery, signal analysis, channel scanning, and export features with no restrictions or ongoing fees.
